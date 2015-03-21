@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+
+}
+
+li:link{
+    text-decoration:none;
+    color:black;
+}
+
+li.hover{
+    color:slateblue;
+}
+
+h1.titulo{color: green}
+
+div{ border: 1px solid black}
